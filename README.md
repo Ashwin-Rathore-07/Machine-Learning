@@ -7,18 +7,31 @@ This repository contains my hands-on practice, notes, and implementations coveri
 Topics Covered
 
 Exploratory Data Analysis (EDA)
+
 Data Cleaning & Feature Engineering
+
 Linear & Polynomial Regression
+
 Logistic Regression
+
 Gradient Descent & Optimization Techniques
+
 Naive Bayes
+
 Support Vector Machine (SVM)
+
 K-Nearest Neighbors (KNN)
+
 Decision Trees
+
 Ensemble Methods (Bagging, Random Forest, Gradient Boosting)
+
 Clustering (K-Means, DBSCAN, Hierarchical)
+
 Dimensionality Reduction (PCA)
+
 Model Evaluation (ROC Curve, AUC, Precision–Recall, Cross-Validation)
+
 Bias–Variance Tradeoff
 
 Goal
@@ -28,11 +41,17 @@ To build strong conceptual understanding of end-to-end Machine Learning, from ra
 Tools
 
 Python
+
 NumPy
+
 Pandas
+
 scikit-learn
+
 Matplotlib / Seaborn
+
 Jupyter Notebook
 
 Status
+
 🚧 Actively updating
